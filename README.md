@@ -21,7 +21,3 @@ Soy un estudiante apasionado por la organización eficiente de recursos, el desa
 - Desarrollar proyectos que impulsen la productividad local y regional
 - Aprender continuamente nuevas tecnologías aplicadas a la administración
 - Colaborar en iniciativas que generen impacto social y económico
-
-## 📫 Contacto
-
-Puedes encontrarme en GitHub o escribirme a mi correo: `tu-correo@example.com`
