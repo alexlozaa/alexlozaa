@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Cristhian Estiven Mamani Laime
 
-<!--
-**alexlozaa/alexlozaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante en el **INSTITUTO TÉCNICO E.S.A.E.** (Escuela Superior de Administración de Empresas)  
+📚 Carrera: **Administración y Gestión Productiva**  
+📍 Ubicado en La Paz, Bolivia
 
-Here are some ideas to get you started:
+## 🚀 Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un estudiante apasionado por la organización eficiente de recursos, el desarrollo de proyectos productivos y la mejora continua de procesos empresariales. Me interesa combinar herramientas tecnológicas con estrategias de gestión para lograr resultados innovadores.
+
+## 🛠️ Habilidades
+
+- Planeación estratégica
+- Gestión de procesos productivos
+- Trabajo en equipo y liderazgo
+- Microsoft Office y herramientas de análisis
+- Conocimiento básico en Git y GitHub
+
+## 📈 Objetivos
+
+- Desarrollar proyectos que impulsen la productividad local y regional
+- Aprender continuamente nuevas tecnologías aplicadas a la administración
+- Colaborar en iniciativas que generen impacto social y económico
+
+## 📫 Contacto
+
+Puedes encontrarme en GitHub o escribirme a mi correo: `tu-correo@example.com`
